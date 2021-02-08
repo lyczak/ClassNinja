@@ -1,0 +1,9 @@
+﻿By using this web application, you (the user) are entrusting the host with your account credentials to Perkiomen Valley School District's eSchoolPlus service.
+
+Within this application, your data is handled as follows:
+ - Your account credentials are encrypted when being sent over the internet (provided you connect to this application using HTTPS).
+ - Your account credentials are stored in memory only during the login process and are promptly discarded.
+ - The temporary token used to fetch your eSchoolPlus classes and assignments is discarded after this process is completed.
+ - Your classes and assignments are stored as session data and are discarded when you exit your session.
+
+The host of this web application is not responsible for any misuse of said application by malicious actors.
